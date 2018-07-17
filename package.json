@@ -1,0 +1,25 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "es6 finally! :)\r change!\r on win!",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbyka/es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbyka/es6/issues"
+  },
+  "homepage": "https://github.com/gabbyka/es6#readme",
+  "devDependencies": {
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.3"
+  }
+}
